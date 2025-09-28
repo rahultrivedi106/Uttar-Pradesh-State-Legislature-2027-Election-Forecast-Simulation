@@ -15,9 +15,6 @@ up_forecast_2027/
 │   ├── party_seat_forecast_chart.png(auto generate after run)
 │   ├── forecast_table.csv( auto generate after run )
 ├── up_predictor.py
-├── README.md
-├── gitignore
-├── license
 ├──code results/
 │   ├── image1
 │   ├── image2
