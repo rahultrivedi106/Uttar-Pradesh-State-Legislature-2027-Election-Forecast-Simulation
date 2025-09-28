@@ -76,6 +76,13 @@ This will:
 - Final prediction for 2027 seats per party
 
 ---
+Results :
+<img width="1000" height="400" alt="image1" src="https://github.com/user-attachments/assets/e62d0f14-dfe4-4ca0-99d4-01b9f533add8" />
+
+<img width="1000" height="600" alt="image2" src="https://github.com/user-attachments/assets/714abdbf-c2a4-4624-857b-35fa1e2029d5" />
+
+
+
 
 ### ⚠️ Disclaimer
 
