@@ -27,7 +27,7 @@ up_forecast_2027/
 
 ### 📌 Project Overview
 
-This project forecasts party-wise seat counts for the **Uttar Pradesh Vidhan Sabha Election 2027** using:
+This project forecasts party-wise seat counts for the **Uttar Pradesh State Legislature Election 2027** using:
 
 - Historical Assembly election results (2012, 2017, 2022)
 - Urban Local Body (ULB) performance from municipal elections (2017, 2023)
