@@ -1,7 +1,7 @@
 
 ---
 
-## 🗳️ Uttar Pradesh State Legislature Election 2027 Forecasting 
+## 🗳️ Uttar Pradesh State Legislature 2027 Election Forecast Simulation
 ### 📁 Folder Structure
 ```
 up_forecast_2027/
