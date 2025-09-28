@@ -1,0 +1,6 @@
+Party,Seats
+BJP,255
+SP,111
+BSP,1
+INC,2
+Others,34

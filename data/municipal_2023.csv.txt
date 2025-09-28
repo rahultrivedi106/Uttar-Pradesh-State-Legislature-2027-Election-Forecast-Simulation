@@ -1,0 +1,6 @@
+Party,Mayors,Nigam_Seats
+BJP,17,813
+SP,0,191
+BSP,0,85
+INC,0,77
+Others,0,37
